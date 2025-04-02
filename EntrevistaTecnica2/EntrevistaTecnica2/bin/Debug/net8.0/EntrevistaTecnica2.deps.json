@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntrevistaTecnica2/1.0.0": {
+        "runtime": {
+          "EntrevistaTecnica2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntrevistaTecnica2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

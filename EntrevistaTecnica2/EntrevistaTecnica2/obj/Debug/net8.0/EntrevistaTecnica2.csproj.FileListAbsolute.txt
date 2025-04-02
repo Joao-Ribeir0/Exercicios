@@ -1,0 +1,14 @@
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\bin\Debug\net8.0\EntrevistaTecnica2.exe
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\bin\Debug\net8.0\EntrevistaTecnica2.deps.json
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\bin\Debug\net8.0\EntrevistaTecnica2.runtimeconfig.json
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\bin\Debug\net8.0\EntrevistaTecnica2.dll
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\bin\Debug\net8.0\EntrevistaTecnica2.pdb
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.AssemblyInfoInputs.cache
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.AssemblyInfo.cs
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.csproj.CoreCompileInputs.cache
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.dll
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\refint\EntrevistaTecnica2.dll
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.pdb
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\EntrevistaTecnica2.genruntimeconfig.cache
+C:\Users\joaon\source\repos\EntrevistaTecnica2\EntrevistaTecnica2\obj\Debug\net8.0\ref\EntrevistaTecnica2.dll
